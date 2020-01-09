@@ -32,3 +32,10 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+.project {
+     font-family: neuzeit-grotesk, sans-serif;
+     font-weight: 400;
+     font-style: normal;
+     margin-left: 20px;
+}
